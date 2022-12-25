@@ -18,6 +18,7 @@ def Expenses(inp):
             newp.append(i)
             
     
+    
     np=[]
     for i in range(len(newp)):
         var1=newp[i][0]
