@@ -16,6 +16,7 @@ def Expenses(inp):
     for i in join:
         if sum(i)<=inp: #Fitering  combinations based on the weekly budget
             newp.append(i)
+            
     
     np=[]
     for i in range(len(newp)):
